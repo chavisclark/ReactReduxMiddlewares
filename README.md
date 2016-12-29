@@ -1,4 +1,4 @@
-# Redux Middlewares (HOC)
+# Redux Middlewares
 
 ###Getting Started###
 
